@@ -1,6 +1,6 @@
 ![logo](https://github.com/Kushwaha2k01/Kushwaha2k01/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Avinash Kushwaha</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Data Analysis from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://guruprasad.codes/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcoder.41289687.gif&w=750&q=75">
 
