@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Kushwaha2k01/Kushwaha2k01/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Avinash Kushwaha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
