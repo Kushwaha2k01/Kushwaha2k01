@@ -1,5 +1,6 @@
 ![logo](https://github.com/Kushwaha2k01/Kushwaha2k01/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Avinash Kushwaha</h1>
+<h3 align="center">Founder & CEO, Codeknight Esports</h3>
 <h3 align="center">A passionate Data Analysis, Frontend Developer, Gamer Tester, from India</h3>
 <h3 align="center">Learing Game Development (Unity, Unreal Engine)</h3>
 
